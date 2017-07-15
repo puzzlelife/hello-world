@@ -10,9 +10,4 @@ int main()
   return 0;
 }
 
-<<<<<<< HEAD
 create this change is in dev and simple
-=======
-create change is in feautre and simple
-
->>>>>>> feature1
